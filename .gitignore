@@ -42,6 +42,7 @@ hs_err_pid*
 
 # ruslanito added
 .idea/
+*.iml
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
